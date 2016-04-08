@@ -7,12 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Charlatan", "Charlatan\Char
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ReferencedAssemblies", "ReferencedAssemblies", "{DAACBA4A-9C60-411F-BF24-2F7F4B0E6152}"
 	ProjectSection(SolutionItems) = preProject
-		ReferencedAssemblies\Interop.LSEXPLORERLib.dll = ReferencedAssemblies\Interop.LSEXPLORERLib.dll
-		ReferencedAssemblies\Interop.LSEXPORTVCLib.dll = ReferencedAssemblies\Interop.LSEXPORTVCLib.dll
 		ReferencedAssemblies\Interop.LSEXT.dll = ReferencedAssemblies\Interop.LSEXT.dll
-		ReferencedAssemblies\Interop.LSExtensionWindowLib.dll = ReferencedAssemblies\Interop.LSExtensionWindowLib.dll
-		ReferencedAssemblies\Interop.LSPLATEEDITORLib.dll = ReferencedAssemblies\Interop.LSPLATEEDITORLib.dll
-		ReferencedAssemblies\Interop.LSSERVICEPROVIDERLib.dll = ReferencedAssemblies\Interop.LSSERVICEPROVIDERLib.dll
 	EndProjectSection
 EndProject
 Global
