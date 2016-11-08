@@ -228,7 +228,7 @@ namespace Charlatan
                 entityRecordIds.AddNew("ID", id);
             }
 
-            entityRecordIds.MoveFirst();
+            if (parts.Length > 0) entityRecordIds.MoveFirst();
 
             return entityRecordIds;
         }
